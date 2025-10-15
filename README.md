@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizky</h1>
+<h1 align="left">About Me :</h1>
 <h3 align="center">Hi! Welcome to my Github 😁</h3>
 
 - 🌱 I’m currently learning **Laravel and Next.js**
