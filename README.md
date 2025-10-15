@@ -1,5 +1,5 @@
 <h1 align="left">About Me :</h1>
-<h3 align="center">Hi! Welcome to my Github 😁</h3>
+<h3 align="left">Hi! Welcome to my Github 😁</h3>
 
 - 🌱 I’m currently learning **Laravel and Next.js**
 
