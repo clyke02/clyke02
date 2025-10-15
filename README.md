@@ -1,5 +1,6 @@
-<h1 align="left">About Me :</h1>
-<h3 align="left">Hi! Welcome to my Github 😁</h3>
+<h1 align="left">🐈 About Me :</h1>
+Hi! I'm Rizky, currently still learning a lot of things about web and android development. <br>
+On my way to become fullstack dev if im still alive LOL 
 
 - 🌱 I’m currently learning **Laravel and Next.js**
 
